@@ -11,7 +11,7 @@ Translation: 	this class is a lot of fun
 
 **Romanization**: the representation of a language text using the Roman alphabet. 
 
-Do romanization and code-mixing trigger substantial changes in model performance? 
+**_Do romanization and code-mixing trigger substantial changes in model performance?_**
 
 ## Dataset
 
